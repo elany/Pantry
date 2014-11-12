@@ -1,0 +1,4 @@
+Pantry
+======
+
+Fully stocked.
